@@ -53,7 +53,8 @@ Customer-Churn-Analysis/
 │   └── dashboard-preview.png
 │
 └── README.md
-📊 Dataset
+
+## 📊 Dataset
 
 The dataset contains 7,043 customer records and 21 customer attributes, including:
 
@@ -68,7 +69,8 @@ Online security
 Technical support
 Device protection
 Customer churn status
-🔍 SQL Analysis
+
+## 🔍 SQL Analysis
 
 The MySQL analysis covers:
 
@@ -81,7 +83,8 @@ Churn by monthly charges
 Churn by demographics
 Churn by support and protection services
 High-risk customer segmentation
-📈 Key Findings
+
+## 📈 Key Findings
 Overall Churn
 Total customers: 7,043
 Churned customers: 1,869
@@ -109,7 +112,8 @@ Month-to-month + 0–12 months tenure + Electronic check
 Customers: 954
 Churned: 602
 Churn rate: 63.10%
-💡 Business Insights
+
+## 💡 Business Insights
 
 The analysis indicates that churn is particularly concentrated among:
 
@@ -121,7 +125,7 @@ Customers without selected support/protection services
 
 These patterns can help businesses prioritize retention efforts toward high-risk customer segments.
 
-🚀 Business Recommendations
+## 🚀 Business Recommendations
 1. Focus on Early-Tenure Retention
 
 Develop targeted onboarding and engagement programs for customers during their first 12 months.
@@ -142,13 +146,13 @@ Investigate service quality, pricing, support, and customer experience among fib
 
 Evaluate targeted offers for customers who do not currently use services such as Online Security, Tech Support, Online Backup, and Device Protection.
 
-⚠️ Analytical Note
+## ⚠️ Analytical Note
 
 The findings in this project represent associations observed in the dataset and do not establish causal relationships.
 
 For example, a higher churn rate among customers without a particular service does not necessarily mean that adding the service will directly reduce churn.
 
-📊 Power BI Dashboard
+## 📊 Power BI Dashboard
 
 An interactive Power BI dashboard will be added to this repository.
 
@@ -162,7 +166,8 @@ Churn by internet service
 Customer risk segmentation
 Service-level churn analysis
 Interactive filters
-👤 Author
+
+##👤 Author
 
 Mohit Bhilala
 
