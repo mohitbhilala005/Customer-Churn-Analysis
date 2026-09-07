@@ -366,6 +366,8 @@ Customer-Churn-Analysis/
 ├── sql/
 │   └── customer_churn_analysis.sql
 │
+├── licence
+│  
 └── README.md
 ```
 
