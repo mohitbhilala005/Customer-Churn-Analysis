@@ -454,7 +454,7 @@ These are proposed future extensions and are **not part of the current implement
 
 ### Project
 
-**Customer Churn & Retention Analysis**
+**Customer Churn Analysis**
 
 ### Skills Demonstrated
 
