@@ -7,18 +7,6 @@ The project combines SQL-based analysis, customer segmentation, KPI development,
 > **Which customers are most likely to churn, and where should retention efforts be prioritized?**
 
 ---
-## 📊 Dashboard Preview
-
-### Executive Churn Overview
-![Executive Churn Overview](screenshots/executive-overview.png)
-
-### Customer Segmentation
-![Customer Segmentation](screenshots/customer-segmentation.png)
-
-### Retention Strategy
-![Retention Strategy](screenshots/retention-strategy.png)
-
----
 
 ## 🎯 Business Problem
 
@@ -243,41 +231,19 @@ The Power BI dashboard contains **three analytical pages**.
 
 ## 1. Executive Churn Overview
 
-Provides a high-level view of:
-
-* Total customers
-* Churned customers
-* Churn rate
-* Retention rate
-* Churn by contract type
-* Churn by customer tenure
-* Churn by internet service
+![Executive Churn Overview](screenshots/executive-overview.png)
 
 ---
 
 ## 2. Customer Segmentation
 
-Analyzes churn across:
-
-* Payment methods
-* Monthly charge groups
-* Partner status
-* Dependents
-* Senior citizen status
-* Contract-based filtering
+![Customer Segmentation](screenshots/customer-segmentation.png)
 
 ---
 
 ## 3. Retention Strategy
 
-Combines segmentation analysis with actionable retention insights.
-
-The page highlights:
-
-* Churn risk by contract and internet service
-* Highest-risk customer segment
-* Retention recommendations
-* Key business insights
+![Retention Strategy](screenshots/retention-strategy.png)
 
 ---
 
