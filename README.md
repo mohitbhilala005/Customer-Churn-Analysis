@@ -386,6 +386,21 @@ Customer-Churn-Analysis/
 sql/customer_churn_analysis.sql
 ```
 
+## Power BI Dashboard
+
+1. Open:
+
+```text
+powerbi/Customer_Churn_Dashboard.pbix
+```
+
+2. Refresh the data if required.
+3. Explore the three dashboard pages:
+
+   * Executive Churn Overview
+   * Customer Segmentation
+   * Retention Strategy
+
 ## Presentation
 
 The complete project presentation is available in:
